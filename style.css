@@ -1,5 +1,7 @@
 
 .MainHead {
+ height: 50%;
+ width: 100%;
  font-size: 50px;
  background-color: rgb(55,55,55);
 }
