@@ -7,7 +7,7 @@
  background-color: rgba(200, 17, 17, 0.8);
 }
 
-.BackgroundImage img {
- height: auto;
- width: auto;
+.BackgroundImage {
+ height: 50%;
+ width: 50%;
 }
