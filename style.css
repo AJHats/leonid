@@ -8,6 +8,7 @@
 }
 
 .BackgroundImage {
+ position: absolute;
  height: auto;
  width: auto;
 }
