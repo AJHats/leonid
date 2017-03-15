@@ -11,8 +11,8 @@
  background-repeat: no-repeat;
  background-attachment:;
  background-position: fixed;
- max-height: 100%;
- max-width: 100%;
+ height: 100%;
+ width: 100%;
  top: 0%;
  right: 0%;
  bottom: 0%;
