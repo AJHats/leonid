@@ -2,7 +2,7 @@
 .MainHead {
  height: 50%;
  width: 100%;
- font-size: 50%;
+ font-size: 5em;
  text-align: center;
  color: red;
 }
@@ -10,7 +10,7 @@
 .text {
  color: red;
  text-align: center;
- font-size: 25%;
+ font-size: 2.5em;
 }
 
 * {
