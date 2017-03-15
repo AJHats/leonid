@@ -2,13 +2,15 @@
 .MainHead {
  height: 50%;
  width: 100%;
- font-size: 50px;
+ font-size: 10%;
  text-align: center;
  color: red;
 }
 
 .text {
  color: red;
+ text-align: center;
+ font-size: 5%;
 }
 
 * {
