@@ -1,7 +1,7 @@
 
 
 .MainHead {
- height: 5em;
+ height: auto;
  font-size: 5em;
  text-align: center;
  color: red;
@@ -11,7 +11,7 @@
  color: red;
  text-align: center;
  font-size: 2.5em;
- height: 2.5em;
+ height: auto;
 }
 
 * {
