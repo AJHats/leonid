@@ -17,17 +17,15 @@
 .button {
  background-color: red;
  border: green;
- z-index: 1010101010;
 }
 
 .button:hover {
  background-color: white;
  border: red;
- z-index: 1010101010;
 }
 
 
-* {
+html {
  background-image: url("http://wallpapercave.com/wp/KV8nmLN.jpg");
  background-repeat: no-repeat;
  background-attachment: fixed;
@@ -38,4 +36,5 @@
  right: 0%;
  bottom: 0%;
  left: 0%;
+ z-index: -1;
 }
