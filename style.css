@@ -19,8 +19,8 @@
  border: solid green 5px;
  font-size: 2em;
  text-align: center;
- margin-right: 50%;
- margin-left: 50%;
+ margin-right: auto;
+ margin-left: auto;
 }
 
 .button:hover {
