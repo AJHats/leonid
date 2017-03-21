@@ -31,3 +31,8 @@
  background-color: red;
  border: green;
 }
+
+.button:hover {
+ background-color: white;
+ border: red;
+}
