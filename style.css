@@ -16,12 +16,16 @@
 
 .button {
  background-color: red;
- border: green;
+ border: green 5px;
+ font-size: 1em;
+ text-align: center;
 }
 
 .button:hover {
  background-color: white;
- border: red;
+ border: red 10px;
+ font-size: 2em;
+ text-align: center;
 }
 
 
