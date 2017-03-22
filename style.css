@@ -21,6 +21,7 @@
  text-align: center;
  margin-right: auto;
  margin-left: auto;
+ left: auto;
 }
 
 .button:hover {
