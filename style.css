@@ -19,8 +19,7 @@
  border: solid green 5px;
  font-size: 2em;
  text-align: center;
- left: 50%;
- right: 50%;
+ width: 100%;
 }
 
 .button:hover {
@@ -28,8 +27,7 @@
  border: dotted red 10px;
  font-size: 4em;
  text-align: center;
- left: 50%;
- right: 50%;
+ width: 100%;
 }
 
 html {
