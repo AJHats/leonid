@@ -16,18 +16,18 @@
 
 .button {
  background-color: red;
- border: solid green 1%;
- font-size: 8%;
+ border: solid green 6%;
+ font-size: 20%;
  text-align: center;
- margin-left: 45%;
+ margin-left: 74%;
 }
 
 .button:hover {
  background-color: white;
- border: dotted red 2%;
- font-size: 16%;
+ border: dotted red 12%;
+ font-size: 40%;
  text-align: center;
- margin-left: 40%;
+ margin-left: 48%;
 }
 
 html {
