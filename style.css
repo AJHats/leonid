@@ -19,9 +19,9 @@
  border: solid green 2px;
  font-size: 2em;
  text-align: center;
- margin-left: 45%;
- margin-right: 45%;
- width: 10%;
+ margin-left: 48%;
+ margin-right: 48%;
+ width: 4%;
 }
 
 .button:hover {
@@ -29,9 +29,9 @@
  border: dotted red 4px;
  font-size: 4em;
  text-align: center;
- margin-left: 40%;
- margin-right 40%;
- width: 20%;
+ margin-left: 46%;
+ margin-right 46%;
+ width: 8%;
 }
 
 html {
