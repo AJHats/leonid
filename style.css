@@ -19,9 +19,6 @@ body {
  background-color: red;
  border: solid green 2px;
  font-size: 2em;
- margin-left: 48%;
- margin-right: 48%;
- width: 4%;
 }
 
 .button:hover {
@@ -29,9 +26,6 @@ body {
  border: dotted red 4px;
  font-size: 4em;
  text-align: center;
- margin-left: 46%;
- margin-right 46%;
- width: 8%;
 }
 
 html {
