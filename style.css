@@ -20,6 +20,8 @@
  font-size: 2em;
  text-align: center;
  margin-left: 45%;
+ margin-right: 45%;
+ width: 10%;
 }
 
 .button:hover {
@@ -27,7 +29,9 @@
  border: dotted red 4px;
  font-size: 4em;
  text-align: center;
- margin-left: 45%;
+ margin-left: 40%;
+ margin-right 40%;
+ width: 20%;
 }
 
 html {
