@@ -5,7 +5,6 @@ body {
 .MainHead {
  height: auto;
  font-size: 5em;
- text-align: center;
  color: red;
 }
 
@@ -25,7 +24,6 @@ body {
  background-color: white;
  border: dotted red 4px;
  font-size: 4em;
- text-align: center;
 }
 
 html {
